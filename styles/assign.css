@@ -2,7 +2,8 @@ body {
     font-family: 'Merriweather', serif;
     font-family: 'Open Sans', sans-serif;
 }
-.banner-title{
+
+.banner-title {
     color: #FFF;
     text-align: center;
     font-size: 32px;
@@ -10,11 +11,12 @@ body {
     position: absolute;
     top: 177px;
     left: 530px;
-    right: 531px;  
+    right: 531px;
     bottom: 383;
     margin-bottom: 0;
 }
-.banner-description{
+
+.banner-description {
     color: #FFF;
     text-align: center;
     font-size: 72px;
@@ -22,26 +24,119 @@ body {
     position: absolute;
     top: 233px;
     left: 344px;
-    right: 344px;  
+    right: 344px;
     bottom: 177;
     margin-top: 0;
 }
 
-}
-.wid{width: 1300px;
+.wid {
+    width: 1300px;
     height: 600px;
-    border-radius: 16px;background-color: azure; color:#070211, #07021100 ;
+    border-radius: 16px;
 
 }
-.image{
+
+.image {
     position: relative;
-   
-    
-}
-.div{
-    display: flex; 
-;
+    background: -moz-linear-gradient(#070211, #07021100);
+    margin: 50px 140px;
+
 }
 
+.div {
+    display: flex;
+    ;
+}
 
-    
+.about {
+    padding: 0;
+    width: 1590px;
+    height: 900px;
+    background-color: #FFF;
+}
+
+.section-title {
+    color: #F00;
+    text-align: center;
+    font-size: 85px;
+    font-weight: 700px;
+    margin-bottom: 0;
+}
+
+.section-description {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+    left: 88px;
+    right: 107px;
+}
+
+.section-info {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.sec-img {
+    margin: 40px 390px 40px 390px;
+}
+
+.div-img {
+    margin: 50px 140px;
+    position: relative;
+}
+
+.vector {
+    width: 1300px;
+    height: 600px;
+    border-radius: 16px;
+
+}
+
+.main {
+    display: flex;
+}
+
+.p-title {
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    text-align: left;
+    left: 126px;
+    right: 550px;
+    top: 126px;
+    bottom: 296px;
+    position: absolute;
+    margin-bottom: 20PX;
+
+}
+
+.p-des {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    left: 126px;
+    right: 497px;
+    top: 326px;
+    bottom: 214px;
+    position: absolute;
+    text-align: left;
+    margin-top: 30PX;
+}
+
+button {
+    color: #FFF;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+   background-color:black;
+    left: 158px;
+    right: 1058px;
+    top: 434px;
+    bottom: 141px;
+}
