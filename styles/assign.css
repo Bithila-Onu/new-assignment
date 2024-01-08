@@ -30,6 +30,7 @@ body {
 }
 
 .wid {
+   
     width: 1300px;
     height: 600px;
     border-radius: 16px;
@@ -38,14 +39,18 @@ body {
 
 .image {
     position: relative;
-    background: -moz-linear-gradient(#070211, #07021100);
     margin: 50px 140px;
+   
 
+}
+.photo{
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
 }
 
 .div {
     display: flex;
-    ;
+  
 }
 
 .about {
@@ -174,7 +179,7 @@ button {
 .news{
     background-color: rgb(246, 222, 191);margin: 800px 140px;width: 1300px;
     height: 600px;
-    border-radius: 16px;}
+    border-radius: 16px;margin-bottom: 100px;}
 .group{
     width: 150px;height: 150px; display: block;margin: auto
 }
@@ -197,3 +202,22 @@ color: #FFF;text-align: center;font-size: 20px;font-weight: 600;padding: 24px 56
 .div7{
     display: flex;justify-content: center;align-items: center;
 }
+footer{
+    width: 1600px;height: 609px;background: #070211;margin-top: 0px;
+}
+    
+.p10{
+    color: #FFF;font-size: 24px;font-weight: 500px;padding: 50px;
+}
+ .footer-1 {
+    display: flex;
+    justify-content: space-between;
+ }
+ .div8{
+    padding-left:50px ;
+ }
+ .div10{
+    padding-right: 60px;
+ }
+
+ 
