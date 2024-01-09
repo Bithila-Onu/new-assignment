@@ -93,9 +93,11 @@ body {
 
 .div-img {
     margin: 50px 140px;
-    position: relative;
+    position: relative;display: flex;
 }
-
+.ballon{
+    position: absolute;display: flex;padding-left: 1000px;margin-right: 100px;padding-top: 80px;
+}
 .vector {
     width: 1300px;
     height: 600px;
@@ -134,20 +136,18 @@ body {
     margin-top: 30PX;
 }
 
-button {
+.now{
     color: #FFF;
     text-align: left;
     font-size: 20px;
     font-weight: 700;
    background-color:black;
-    left: 158px;
-    right: 1058px;
-    top: 434px;
-    bottom: 141px;
+   
 }
-.linear{background-color:rgb(200, 182, 182); margin: 50px 140px;width: 1300px;
+.linear
+{margin: 50px 140px;width: 1300px;
     height: 400px;
-    border-radius: 16px;
+    border-radius: 16px;background-color: rgb(229, 215, 197);
 }
 .style{
     color: #F00;
@@ -161,7 +161,7 @@ button {
 .white{
     background-color: #FFF;margin: 50px 140px;width: 1300px;
     height: 400px;
-    border-radius: 16px;
+    border-radius: 16px;margin: 100px;
 }
 .png{
     margin-top: 100px;
@@ -194,9 +194,9 @@ button {
     color: rgba(7,2,17,0.60); text-align: center;font-size: 20px;font-weight: 400;margin-top:20px;
 }
 .email{
-    width: 648px;height: 72px;border-radius: 50px 0px 0px 50px;background: #FFF;
+    width: 640px;height: 69px;border-radius: 50px 0px 0px 50px;background: #FFF;
 }
-button{
+.subs{
 color: #FFF;text-align: center;font-size: 20px;font-weight: 600;padding: 24px 56px;border-radius: 0px 50px 50px 0px;background: #F00;
 }
 .div7{
@@ -240,4 +240,65 @@ padding-left: 60px;
 .hrc{
 width: 1500px;height: 1px;background-color: rgb(113, 113, 142);
 }
- 
+.soon{
+    background-color: #FFF;height: auto;margin: 100px 140px;width: 1300px;
+    height: 400px;
+    border-radius: 16px;
+}
+ .coming{
+    display: flex;
+ }
+ .comic{
+    justify-content: left;padding-top: 100px;
+ }.best{
+    color: #F00;text-align: left;font-size: 24px;font-weight: 500; margin-bottom: 0px;
+ }
+ .come{
+    color: #070211;font-size: 48px;font-weight: 900;margin-top: 0px;margin-bottom: 0px;
+ }
+ .dont{
+    width: 393px;color: rgba(7,2,17,0.60);font-size: 20px;font-weight: 400;
+ }
+ .gifts{
+    width: 364.844px;height:364.844px ;border-radius:364.844px ;
+ }
+ .radius{
+    width: 420px;height: 420px;border-radius:420px ;border:15px solid #F00 ;
+ }
+ .year{
+    color: #F00;font-size: 48px;font-weight: 700;margin-bottom: 0px;padding-bottom: 0px;padding-top: 60px;
+ }
+ .div16{
+    justify-content: right;padding-left: 60px;
+ }
+ .k2{
+    justify-content: left;margin-top: 0px;padding-top: 0px;
+ }
+ .sale{
+    background-color: #FFF;width: 1300px;height: 600px;
+    border-radius: 16px;
+ }
+ .holidays{
+    display: block;margin: 100px;padding-left: 100px;
+ }
+ .functional{
+    text-align: center;
+ }
+ .what{
+    color: #070211;font-size: 24px;font-weight: 500;padding-bottom: 0px;margin-bottom: 0px;
+ }
+ .init{
+    color: #070211;font-size: 72px;font-weight: 900;padding-top: 0px;margin-top: 0px;margin-bottom: 0px;
+ }
+ .rectangle{
+    color: #F00;text-align: center;font-size: 72px;font-weight: 900;
+ }
+ .commit{
+    color: rgba(7,2,17,0.60);text-align: center;font-size: 20px;font-weight: 500;margin-top: 0px;
+ }
+ .redme{
+    width: 1320px;height: 229px;border-radius: 16px 0px 16px 16px;background: #F00;margin-top: 150px;
+ }
+ .div20{
+    display: flex;
+ }
