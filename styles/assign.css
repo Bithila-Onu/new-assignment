@@ -96,7 +96,7 @@ body {
     position: relative;display: flex;
 }
 .ballon{
-    position: absolute;display: flex;padding-left: 1000px;margin-right: 100px;padding-top: 80px;
+    position: absolute;display: flex;padding-left: 900px;margin-right: 100px;padding-top: 80px;
 }
 .vector {
     width: 1300px;
@@ -301,4 +301,7 @@ width: 1500px;height: 1px;background-color: rgb(113, 113, 142);
  }
  .div20{
     display: flex;
+ }
+ .packet{
+    padding-left: 0px;margin-left: 0px;
  }
