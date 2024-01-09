@@ -219,5 +219,25 @@ footer{
  .div10{
     padding-right: 60px;
  }
-
+ hr{
+    background-color: rgb(113, 113, 142); width: 1500px;height: 1px;
+ }
+ .icon{
+    margin-top: 100px;display: flex;text-align: center;align-items: center;margin-bottom: 100px;justify-content: space-around;padding-bottom:0px ;
+ }
+.class{
+padding-right: 50px;
+}
+.all{
+    color: #FFF;font-size: 24px;font-weight: 500px;padding-left: 100px;margin: 10px;
+}
+.un{
+padding-left: 60px;
+}
+.sub{
+    color: #FFF;font-size: 24px;font-weight: 500px;padding-right: 100px;margin: 10px;
+}
+.hrc{
+width: 1500px;height: 1px;background-color: rgb(113, 113, 142);
+}
  
